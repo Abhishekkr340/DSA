@@ -4,13 +4,16 @@ class Solution {
         //create an array 
        int [] ans = new int[2*nums.length];
 
-        //traversing array nums
+        //traversing for first 3 element
        for(int i = 0; i < nums.length; i++) {
         ans[i] = nums[i];
        }
+       //taversing for next 3 element
        for(int i = 0; i < nums.length; i++) {
         ans[i+nums.length] = nums[i];
        }
+
+       //returning array ans
        return ans;
     }
 }

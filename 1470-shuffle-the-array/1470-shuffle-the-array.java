@@ -4,8 +4,10 @@ class Solution {
 
         int index = 0;
         for(int i = 0; i<n; i++) {
-            ans[index++]=nums[i];
-            ans[index++]=nums[i+n];
+            ans[index]=nums[i];
+            index++;
+            ans[index]=nums[i+n];
+            index++;
         }
         return ans;
     }

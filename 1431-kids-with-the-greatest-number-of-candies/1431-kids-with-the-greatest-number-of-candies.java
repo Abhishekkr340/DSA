@@ -12,10 +12,10 @@ class Solution {
                     b=candies[j];
                 }
             }
-            if(a<=b){
-                ans.add(i,false);
-            } else{
+            if(a>=b){
                 ans.add(i,true);
+            } else{
+                ans.add(i,false);
             }
            //candies[i]=candies[i]-n;
 

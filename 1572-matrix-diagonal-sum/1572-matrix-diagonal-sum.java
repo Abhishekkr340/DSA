@@ -13,7 +13,5 @@ class Solution {
         else{
             return sum;
         }
-        
     }
-    
 }

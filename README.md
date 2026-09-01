@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekkr340/DSA/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Abhishekkr340/DSA/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/Abhishekkr340/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Abhishekkr340/DSA/tree/master/0867-transpose-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Abhishekkr340/DSA/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhishekkr340/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhishekkr340/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishekkr340/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |

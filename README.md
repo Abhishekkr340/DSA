@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Abhishekkr340/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Abhishekkr340/DSA/tree/master/0069-sqrtx) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhishekkr340/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhishekkr340/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishekkr340/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abhishekkr340/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abhishekkr340/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

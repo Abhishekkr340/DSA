@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekkr340/DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Abhishekkr340/DSA/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekkr340/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0566-reshape-the-matrix](https://github.com/Abhishekkr340/DSA/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Abhishekkr340/DSA/tree/master/0867-transpose-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekkr340/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhishekkr340/DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekkr340/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Newton's Method
 |  |
 | ------- |

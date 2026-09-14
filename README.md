@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhishekkr340/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Abhishekkr340/DSA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekkr340/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekkr340/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/Abhishekkr340/DSA/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishekkr340/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekkr340/DSA/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekkr340/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishekkr340/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Abhishekkr340/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhishekkr340/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekkr340/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishekkr340/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekkr340/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekkr340/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhishekkr340/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhishekkr340/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishekkr340/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhishekkr340/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Abhishekkr340/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Abhishekkr340/DSA/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishekkr340/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |

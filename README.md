@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekkr340/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Abhishekkr340/DSA/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekkr340/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhishekkr340/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/Abhishekkr340/DSA/tree/master/0888-fair-candy-swap) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abhishekkr340/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abhishekkr340/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abhishekkr340/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Abhishekkr340/DSA/tree/master/0367-valid-perfect-square) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abhishekkr340/DSA/tree/master/0013-roman-to-integer) |
 | [1773-count-items-matching-a-rule](https://github.com/Abhishekkr340/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhishekkr340/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers

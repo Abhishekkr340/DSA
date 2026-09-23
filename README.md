@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhishekkr340/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhishekkr340/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0566-reshape-the-matrix](https://github.com/Abhishekkr340/DSA/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/Abhishekkr340/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishekkr340/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishekkr340/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhishekkr340/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Abhishekkr340/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Abhishekkr340/DSA/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/Abhishekkr340/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishekkr340/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhishekkr340/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Abhishekkr340/DSA/tree/master/0888-fair-candy-swap) |

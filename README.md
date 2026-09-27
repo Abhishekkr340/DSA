@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Abhishekkr340/DSA/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/Abhishekkr340/DSA/tree/master/0888-fair-candy-swap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhishekkr340/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhishekkr340/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhishekkr340/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishekkr340/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhishekkr340/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Abhishekkr340/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Abhishekkr340/DSA/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhishekkr340/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhishekkr340/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhishekkr340/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishekkr340/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Abhishekkr340/DSA/tree/master/1512-number-of-good-pairs) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishekkr340/DSA/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhishekkr340/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->

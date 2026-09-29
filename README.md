@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekkr340/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Abhishekkr340/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekkr340/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishekkr340/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Abhishekkr340/DSA/tree/master/0053-maximum-subarray) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhishekkr340/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Abhishekkr340/DSA/tree/master/0014-longest-common-prefix) |
 | [1773-count-items-matching-a-rule](https://github.com/Abhishekkr340/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhishekkr340/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhishekkr340/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishekkr340/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

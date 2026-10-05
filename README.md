@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhishekkr340/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abhishekkr340/DSA/tree/master/0014-longest-common-prefix) |
+| [0856-score-of-parentheses](https://github.com/Abhishekkr340/DSA/tree/master/0856-score-of-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/Abhishekkr340/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhishekkr340/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishekkr340/DSA/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Abhishekkr340/DSA/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Abhishekkr340/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

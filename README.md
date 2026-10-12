@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Abhishekkr340/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Abhishekkr340/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abhishekkr340/DSA/tree/master/0014-longest-common-prefix) |
 | [0856-score-of-parentheses](https://github.com/Abhishekkr340/DSA/tree/master/0856-score-of-parentheses) |

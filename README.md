@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abhishekkr340/DSA/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Abhishekkr340/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Abhishekkr340/DSA/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/Abhishekkr340/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhishekkr340/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhishekkr340/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhishekkr340/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishekkr340/DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Abhishekkr340/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishekkr340/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishekkr340/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishekkr340/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

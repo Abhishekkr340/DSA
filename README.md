@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abhishekkr340/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abhishekkr340/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Abhishekkr340/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Abhishekkr340/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Abhishekkr340/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Abhishekkr340/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Abhishekkr340/DSA/tree/master/0509-fibonacci-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abhishekkr340/DSA/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/Abhishekkr340/DSA/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abhishekkr340/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Abhishekkr340/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

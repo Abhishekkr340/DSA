@@ -2,8 +2,6 @@ class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> ans = new ArrayList<>();
         
-        
-
         int top = 0;
         int bottom = matrix.length - 1;
         int left = 0;
